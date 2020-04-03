@@ -1,0 +1,1 @@
+Use this to fix outputted .pyc files from pyinstextractor so you can run uncompyle6 on them
